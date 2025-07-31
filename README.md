@@ -102,7 +102,3 @@ npm run dev
 # Run worker in development mode
 npm run dev:worker
 ```
-
-## License
-
-MIT
